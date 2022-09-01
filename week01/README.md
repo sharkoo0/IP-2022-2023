@@ -9,8 +9,8 @@
    * for Linux - https://itsfoss.com/install-code-blocks-ubuntu/
    * for macOS - https://sourceforge.net/projects/codeblocks/files/Binaries/13.12/MacOS/CodeBlocks-13.12-mac.zip/download
 
-### II. elms - licensed software from Microsoft
-    https://www.fmi.uni-sofia.bg/bg/softuerni-produkti-ot-microsoft
+### II. elms - licensed software from Microsoft 
+* https://www.fmi.uni-sofia.bg/bg/softuerni-produkti-ot-microsoft
 
 ### III. Какво са компилатор и интерпретатор
 1. Компилатор - Компютърна програма, която превежда (компилира) даден компютърен изходен код в код на език от по-ниско ниво. Когато даден код се компилира до машинен код, крайният продукт е изпълнима програма.
