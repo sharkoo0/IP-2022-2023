@@ -143,7 +143,7 @@ int main() {
     // std::cout << countDigit(111223, 1) << std::endl;
 
     //TASK 3
-    std::cout << isDoublePrimes(11, 13) << std::endl;
+    // std::cout << isDoublePrimes(11, 13) << std::endl;
 
     return 0;
 }
