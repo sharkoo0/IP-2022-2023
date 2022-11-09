@@ -125,7 +125,7 @@ void someFunction()
 		std::cout << "True";
 		return;
 	}
-    	else
+    else
 	{
 		std::cout << "False";
 		return;
